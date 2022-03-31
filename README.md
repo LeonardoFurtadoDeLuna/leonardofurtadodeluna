@@ -20,6 +20,6 @@
  
    ##
    
-  ![Snake animation](https://github.com/LeonardoFurtadoDeLuna/LeonardoFurtadoDeLuna/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/LeonardoFurtadoDeLuna/leonardo/blob/output/github-contribution-grid-snake.svg)
  
 </div>
